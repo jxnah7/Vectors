@@ -1,2 +1,0 @@
-# Vectors
-Intro to Vectors,
